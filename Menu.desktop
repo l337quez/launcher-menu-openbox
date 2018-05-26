@@ -1,14 +1,11 @@
 [Desktop Entry]
-Version=1.0
+Version=2.0
 Name=Menu
-Comment=Official desktop version of Telegram messaging app
-TryExec=
+Comment=Menu for Openbox
 Path=/home/$USER/.local/share/plank
 Exec=python ./menu_plank_openbox.py
 Icon=/home/$USER/.local/share/icons/arch.png
 Terminal=false
-StartupWMClass=TelegramDesktop
 Type=Application
-Categories=Network;InstantMessaging;Qt;
 MimeType=x-scheme-handler/tg;
-X-Desktop-File-Install-Version=0.23
+
