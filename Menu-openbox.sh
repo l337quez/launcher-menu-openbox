@@ -28,6 +28,8 @@ then
 else
 	echo "No tienes instalado plank"
 	echo "el launcher lo encontraras en el escritorio"
+	#copiamos el launcher
+        cp Menu.desktop /home/$USER/Desktop/
 fi
 
 
