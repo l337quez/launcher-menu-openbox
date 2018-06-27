@@ -34,10 +34,10 @@ Para que funciones se debe editar el archivo rc.xml ubicado en /home/$USER/.conf
 
 
 
-<xmp>
-<keybind key="W-d">
-<action name="ToggleShowDesktop"/>
-</keybind> 
-  </xmp>
-&lt;div&gt;Hola mundo!&lt;/div&gt;
+
+&lt;keybind key="W-d"&gt;
+&lt;action name="ToggleShowDesktop"/&gt;
+&lt;/keybind&gt; 
+
+
 
