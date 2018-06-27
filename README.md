@@ -32,7 +32,12 @@ ahora ejecutamos el script
 
 Para que funciones se debe editar el archivo rc.xml ubicado en /home/$USER/.config/openbox  y agregar la siguiente combinacion de techas  
 
-<!--- <keybind key="W-d">
+
+
+<xmp>
+<keybind key="W-d">
 <action name="ToggleShowDesktop"/>
-</keybind> -->
+</keybind> 
+  </xmp>
+
 
