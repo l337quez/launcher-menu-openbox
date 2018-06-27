@@ -39,5 +39,5 @@ Para que funciones se debe editar el archivo rc.xml ubicado en /home/$USER/.conf
 <action name="ToggleShowDesktop"/>
 </keybind> 
   </xmp>
-
+&lt;div&gt;Hola mundo!&lt;/div&gt;
 
