@@ -28,3 +28,10 @@ chmod 775 Menu-openbox.sh
 
 ahora ejecutamos el script
 ./Menu-openbox.sh
+
+
+Para que funciones se debe editar el archivo rc.xml ubicado en /home/$USER/.config/openbox  y agregar la siguiente combinacion de techas  
+
+<keybind key="W-d">
+<action name="ToggleShowDesktop"/>
+</keybind>
